@@ -1,8 +1,10 @@
 # *generate jacoco test coverage report*
-### 1. `mvn clean test`
-### 2. `mvn jacoco:report`
-### 3. Navigate to `target/site/jacoco/index.html`
-### 4. Open `index.html` in a browser to view the test coverage.
+1. `mvn clean test`
+2. `mvn jacoco:report`
+3. Navigate to `target/site/jacoco/index.html`
+4. Open `index.html` in a browser to view the test coverage.
+
+
 
 
 # APIs
@@ -75,3 +77,11 @@
 ## 5. Delete Book
 **API:** `{url}/bookstore/books/2`  
 **METHOD_TYPE:** `DELETE`
+
+
+
+
+## Author  
+**Harshit Sharma**  
+- [GitHub](https://github.com/harshiteuro)  
+- [LinkedIn](https://www.linkedin.com/in/harshit-sharma-94773b1b0/)  
