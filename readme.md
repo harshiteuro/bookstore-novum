@@ -1,8 +1,8 @@
-*generate jacoco test coverage report*
-1. mvn clean test
-2. mvn jacoco:report
-3. Navigate to target/site/jacoco/index.html
-4. Open index.html in a browser to view the test coverage.
+# *generate jacoco test coverage report*
+### 1. `mvn clean test`
+### 2. `mvn jacoco:report`
+### 3. Navigate to `target/site/jacoco/index.html`
+### 4. Open `index.html` in a browser to view the test coverage.
 
 
 # APIs
